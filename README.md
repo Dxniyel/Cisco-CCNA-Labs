@@ -1,13 +1,13 @@
-# Networking Labs
+# Network Engineering Labs
 
 ### About This Repository
 
-Welcome to my Networking lab portfolio!
+Welcome to my Network Engineering Lab Portfolio!
 
-This repository documents my hands-on networking practice using **Cisco Packet Tracer** as I develop my technical skills and work towards achieving my **Cisco Certified Network Associate (CCNA)** certification.
+This repository documents my hands-on networking projects, practical configurations, network simulations, and troubleshooting exercises across various networking technologies and platforms.
 
-The purpose of this repository is to demonstrate my understanding of networking concepts through practical configurations, network simulations, troubleshooting exercises, and verification using Cisco IOS commands.
+The purpose of this repository is to demonstrate my technical knowledge and practical experience in **network configuration, administration, monitoring, maintenance, and troubleshooting**.
 
-My primary focus is on developing the practical skills required to configure, operate, maintain, and troubleshoot enterprise networks.
+My primary focus is on developing and strengthening the hands-on technical skills required to operate and maintain enterprise network infrastructures.
 
----
+As I continue expanding my networking knowledge, this repository will serve as an ongoing collection of my lab exercises, technical documentation, configurations, and troubleshooting experiences.
