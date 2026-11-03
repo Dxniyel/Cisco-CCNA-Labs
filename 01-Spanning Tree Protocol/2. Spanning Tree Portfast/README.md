@@ -1,4 +1,4 @@
-# Cisco PortFast Configuration Lab
+# Spanning Tree PortFast Configuration Lab
 
 ## Overview
 
