@@ -27,12 +27,12 @@ The objective is to understand how STP prevents Layer 2 switching loops and main
 3. spanning-tree vlan 1 mode rapid-pvst (Enables RSTP)
 
 ### Verify STP
-show spanning-tree
-show spanning-tree vlan 1
-show spanning-tree summary
+1. show spanning-tree
+2. show spanning-tree vlan 1
+3. show spanning-tree summary
 
 ### Alternative Configuration Commands
-spanning-tree vlan 1 priority 0 (The Lowest BID, automatically ensures the selected Switch becomes the Root)
+1. spanning-tree vlan 1 priority 0 (The Lowest BID, automatically ensures the selected Switch becomes the Root)
 
 
 ## Lab Verification
