@@ -16,31 +16,29 @@ PortFast allows switch ports connected to end devices to immediately enter the F
 ## Configuration
 
 **1. Enable PortFast on an interface**
-
-***Via Interface
+```bash
 interface fa0/1
 spanning-tree portfast
+```
 
 **2. Enable PortFast globally**
-
+```bash
 spanning-tree portfast default
+```
 
 **3. Disable PortFast**
-
 ```bash
 interface fa0/1
 spanning-tree portfast disable
 ```
 
 **4. Enable PortFast on a trunk interface**
-
 ```bash
 interface gi0/2
 spanning-tree portfast edge trunk
 ```
 
 ## Verification Commands
-
 ```bash
 show spanning-tree interface gi0/2 detail
 show spanning-tree summary
