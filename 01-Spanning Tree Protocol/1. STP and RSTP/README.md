@@ -1,4 +1,4 @@
-# Spanning Tree Protocol (STP) – Cisco Packet Tracer
+# Spanning Tree Protocol (STP) and Rapid Spanning Tree Protocol (RSTP)
 
 ## Project Overview
 
