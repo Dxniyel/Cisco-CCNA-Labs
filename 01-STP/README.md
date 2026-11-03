@@ -22,9 +22,9 @@ The objective is to understand how STP prevents Layer 2 switching loops and main
 ## Cisco IOS Commands
 
 ### Configuring STP and RSTP
-spanning-tree vlan 1 root primary (Ensures the selected Switch becomes the Root Bridge)
-spanning-tree vlan 1 root secondary (Ensures the selected Switch becomes the Secondary Bridge) 
-spanning-tree vlan 1 mode rapid-pvst (Enables RSTP)
+1. spanning-tree vlan 1 root primary (Ensures the selected Switch becomes the Root Bridge)
+2. spanning-tree vlan 1 root secondary (Ensures the selected Switch becomes the Secondary Bridge) 
+3. spanning-tree vlan 1 mode rapid-pvst (Enables RSTP)
 
 ### Verify STP
 show spanning-tree
